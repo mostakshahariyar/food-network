@@ -1,3 +1,6 @@
+body{
+	margin: 0;
+}
 h1{
 	color: gray;
 	font-weight: 800;
@@ -9,7 +12,7 @@ p{
 .color{
 	color: orange;
 }
-.flex{
+section{
 	display: flex;
 }
 .healthy-food{
@@ -17,8 +20,7 @@ p{
 	padding-left: 15px;
 }
 .healthy-food img{
-	width: 70%;
-	padding-left: 55%;
+	padding-left: 30%;
 }
 .text-gem{
 	margin-bottom: 50px;
@@ -34,4 +36,11 @@ p{
 	font-weight: 700;
 	border-radius: 30px;
 
+}
+.about-me{
+	text-align: center;
+	padding-top: 10%;
+}
+.banner{
+	background-image: url(images/shapes/7.png);
 }
