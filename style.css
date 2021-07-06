@@ -1,0 +1,37 @@
+h1{
+	color: gray;
+	font-weight: 800;
+	font-size: 40px;
+}
+p{
+	font-size: 20px;
+}
+.color{
+	color: orange;
+}
+.flex{
+	display: flex;
+}
+.healthy-food{
+	width: 50%;
+	padding-left: 15px;
+}
+.healthy-food img{
+	width: 70%;
+	padding-left: 55%;
+}
+.text-gem{
+	margin-bottom: 50px;
+}
+.text-decorator{
+	width: 30%;
+}
+.link-button{
+	text-decoration: none;
+	background-image: linear-gradient(salmon,tomato);
+	padding: 20px 30px;
+	color: white;
+	font-weight: 700;
+	border-radius: 30px;
+
+}
