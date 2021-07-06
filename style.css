@@ -39,8 +39,12 @@ section{
 }
 .about-me{
 	text-align: center;
+	width: 50%;
 	padding-top: 10%;
+	padding-left: 20px;
 }
 .banner{
 	background-image: url(images/shapes/7.png);
+	background-repeat: no-repeat;
+	background-size: 100%;
 }
