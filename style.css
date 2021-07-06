@@ -72,10 +72,26 @@ p{
 }
 .bg-color-footer{
 	background-color: black;
-	
+
 	text-align: center;
 }
 .text-color{
 	color: white;
+	padding-bottom: 90px;
 
+}
+.some-information{
+	width: 33.33%;
+	text-align: center;
+	padding-left: 15px;
+	margin-top: 40px;
+	margin-left: 5px;
+	margin-right: 5px;
+	border: 3px solid white;
+	border-radius: 35px;
+	box-shadow: 5px 5px 8px gray;
+}
+.bold-number{
+	font-weight: 800;
+	font-size: 30px;
 }
