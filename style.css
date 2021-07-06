@@ -60,14 +60,21 @@ p{
 	font-weight: 800;
 }
 .thard-width{
-	box-shadow: 50px 50px 40px gray;
+	box-shadow: 20px 20px 30px gray;
 	width: 33.33%;
 	padding-left: 15px;
 	margin-left: 5px;
-	margin-bottom: 10px;
+
 	margin-right: 5px;
 	border-radius: 35px;
 }
 .thard-width img{
 	width: 100%;
+}
+.bg-color-footer{
+	background-color: black;
+	text-align: center;
+}
+.text-color{
+	color: white;
 }
